@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","number","square"],collisionMatrix:[[false,false,false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/hexa.fire",orientation:"",jsList:[],bundleVers:{internal:"6c0a3",resources:"f3383",main:"95688"}};
